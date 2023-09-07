@@ -1,4 +1,4 @@
 ### Hi there 👋
 
 
-<div align="center"> <img src="https://metrics.lecoq.io/CAN1177?template=classic&config.timezone=Asia%2FShanghai"> </div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CAN1177)](https://github.com/anuraghazra/github-readme-stats)
