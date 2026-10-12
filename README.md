@@ -16,10 +16,6 @@
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
 
-<br/><br/>
-
-<a href="https://can1177.github.io/"><img src="https://img.shields.io/badge/Blog-can1177.github.io-1a1b26?style=flat-square&logo=githubpages&logoColor=white" /></a>
-
 </div>
 
 ---
