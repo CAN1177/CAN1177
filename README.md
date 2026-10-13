@@ -1,87 +1,77 @@
 <div align="center">
 
-# Hi, I'm 21Silva 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:8957e5&height=220&section=header&text=21Silva&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20AI%20Agent%20Developer&descSize=20&descAlignY=60" width="100%" />
 
-**Frontend engineer · building AI agents, skills & workflows**
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=Composing+agent+skills+into+real+workflows;React+%C2%B7+Vue+%C2%B7+TypeScript+%C2%B7+Node.js;Learning+frameworks+by+rebuilding+them" alt="Typing SVG" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Vue-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=From+UI+to+API%2C+end+to+end.;Weaving+agent+skills+into+executable+workflows.;AI-native+development%2C+every+day." alt="typing" />
 
 </div>
 
----
+### ⚡ Core Highlights
 
-### 🔭 Focus
+- **AI agent tooling**: an open-source skill-first orchestrator CLI, a self-improvement loop for agent skills via Claude Code / Codex hooks, and a production-minded skill library.
+- **Full-stack delivery**: React / Vue frontends on Node.js services built with NestJS, Koa and Egg.
+- **Engineering depth**: React 18's reconciler, fiber work loop and hooks rebuilt in TypeScript; a Manifest V3 browser extension; MCP tooling.
+- **AI-native workflow**: Cursor, Codex, Pi coding agent and MCP in the daily loop.
 
-- **AI agents & skills**: composing separate skills into workflows that run end to end
-- **Frontend engineering**: component libraries, micro-frontends (qiankun), tooling and CLIs
-- **Under the hood**: rebuilding minimal versions of React to understand how it works
+### 🧵 Flagship · sLoom
 
-### 🚀 Featured Projects
+**[skill-loom](https://github.com/CAN1177/skill-loom)** (`sloom`) is an open-source, **skill-first orchestrator CLI** that turns scattered `SKILL.md` files into routable, reviewable, executable workflows, woven together by dependency, stage, permission and quality gates. Agent runtimes like Claude Code, Codex and shell are just execution backends; workflow policy lives in the skills.
+
+```text
+Task / Issue → Skill Catalog → Router → Blueprint Planner → DAG Validator → Deterministic Executor → Artifacts + Gates + Trace
+```
+
+### 🛠 Selected Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**[skill-loom](https://github.com/CAN1177/skill-loom)**<br/>
-Weaves dev skills into runnable workflows by dependency, stage, permission and quality gate.<br/>
-`JavaScript`
+**[self-improvement-skill](https://github.com/CAN1177/self-improvement-skill)**<br/>
+<sub>Claude Code / Codex hooks that log user corrections as local evidence and distill them into reviewable skill-rule candidates · JavaScript</sub>
 
 </td>
-<td width="50%" valign="top">
-
-**[D-agent](https://github.com/CAN1177/D-agent)**<br/>
-Agent development experiments.<br/>
-`JavaScript`
-
-</td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **[pragmatic-agent-skills](https://github.com/CAN1177/pragmatic-agent-skills)**<br/>
-A collection of practical agent skills.<br/>
-`JavaScript`
-
-</td>
-<td width="50%" valign="top">
-
-**[smartBrowserBookmarks](https://github.com/CAN1177/smartBrowserBookmarks)**<br/>
-A browser bookmarks tool.<br/>
-`TypeScript`
+<sub>Production-minded agent skills with explicit triggers, non-goals and fallbacks, e.g. a LeetCode coach with progress sync · JavaScript</sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**[21Silva](https://github.com/CAN1177/21Silva)**<br/>
-React component and utility library built with dumi 2.<br/>
-`TypeScript`
+**[RecallPin](https://github.com/CAN1177/smartBrowserBookmarks)**<br/>
+<sub>Manifest V3 smart-bookmarks extension: tagging, keyword extraction, full-text search on IndexedDB · React + TypeScript</sub>
 
 </td>
 <td width="50%" valign="top">
 
-**[simple-react](https://github.com/CAN1177/simple-react)**<br/>
-A minimal React implementation, built to understand React's internals.<br/>
-`JavaScript`
+**[BigReact](https://github.com/CAN1177/BigReact)**<br/>
+<sub>React 18 rebuilt from scratch: reconciler, fiber work loop, hooks and synthetic events · TypeScript</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Transemantix](https://github.com/CAN1177/mcpStar/tree/master/Transemantix)**<br/>
+<sub>MCP server that turns Chinese phrases into semantic code identifiers (camelCase, PascalCase, snake_case, kebab-case) · JavaScript</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**[21Silva](https://github.com/CAN1177/21Silva)**<br/>
+<sub>React component library on dumi 2 with Loading, Modal and QuarterPicker, plus Jest tests · TypeScript</sub>
 
 </td>
 </tr>
 </table>
 
-### 📊 GitHub Stats
+### 🧰 Stack
 
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=CAN1177&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAN1177&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=ts,js,react,vue,nodejs,nestjs,vite&theme=dark&perline=7" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,100:1f6feb&height=110&section=footer" width="100%" />
